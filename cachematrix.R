@@ -26,3 +26,5 @@ cacheSolve <- function(x, ...) {
   x$setInverse(myInverse)
   myInverse
 }
+
+
